@@ -19,7 +19,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/pasargad-cdn.git
+git clone https://github.com/pasargadcdn/security-1-pasargadcdn.git
 
 
 2. Follow the setup instructions in the documentation.
